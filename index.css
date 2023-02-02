@@ -1,0 +1,276 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.column_1{
+    width: 100%;
+    height: 400px;
+    margin-top: -35px;
+}
+.nokia{
+    color: rgb(27, 27, 153);
+    margin-top: -21px;
+    margin-left: 165px;
+    font-size: 7mm;
+    font-family: arial Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+}
+.header{
+    width: 80%;
+    height: 73px;
+    background-color:none;
+    margin-left: 20%;
+    margin-top: -53px;
+    padding-left: 216px;
+}
+.form{
+    float: left;
+    margin-top: 22px;
+    margin-left: 32px;
+   
+   
+   
+}
+.formBorder{
+    border: 0px;
+    font-size: 4mm;
+    cursor: pointer;
+}
+.formBorder:hover{
+    color: blue;
+}
+.column2{
+    width: 80%;
+    height: 613px;
+    margin-left: 9.5%;
+    background-color: blueviolet;
+    margin-top: 85px;
+} 
+.column3{
+    width: 100%;
+    height: 1000px;
+    margin-top: 100px;
+}
+.column3_1{
+    width: 45%;
+    height: 450px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+
+.logo{
+    padding:  20px;
+    border: none;
+    background-color: #fff;
+    margin-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+#logo{
+    margin-left: 20px;
+}
+
+.letterbox{
+    /* position: absolute; */
+    width: 405px;
+    height: 250px;
+    margin-top: -296px;
+    margin-left: 131px;
+    
+}
+.create{
+    font-size: 11mm;
+    color: #fff;
+
+}
+.btn{
+    color: #fff;;
+   background-color: blue;
+   width: 3cm;
+   height: 1cm;
+   border: none;
+  cursor: pointer;
+}
+.btn:hover{
+    width: 4cm;
+    height: 2cm;
+}
+.letterbox2{
+    position: absolute;
+    width: 34%;
+    height: 35%;
+    margin-top: -381px;
+    margin-left: 19px;
+}
+.btn1{
+    color: #fff;;
+    background-color: blue;
+    width: 4cm;
+    height: 1cm;
+    border: none;
+    cursor: pointer;
+}
+.btn1:hover{
+    color: #fff;
+    width: 5cm;
+    height: 2cm;
+}
+
+.image{
+    height: 75%;
+    width: 96%;
+    margin-top: -2px;
+}
+.column3_1  a{
+    text-decoration: none;
+}
+.column4{
+   width: 100%;
+   height: 726px; 
+}
+.column4_1{
+    position: absolute;
+    width: 30%;
+    height: 30%;
+    background-color: blue;
+    margin-top: -230px;
+    margin-left: 50px;
+}
+.column4_1 p{
+    margin-top: 20px;
+    color: #fff;
+    font-size: 39px;
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bt{
+    margin-left: 20px;
+    color: blue;
+    border: none;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+}
+
+.footer{
+    overflow: auto;
+    padding-left: 35px;
+    width: 100%;
+    height: 1000px;
+    background-color: rgb(10, 10, 58);
+    margin-top: 75px;
+}
+.vertical{
+    width: 100%;
+    height: 22%;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    list-style: none;
+    line-height: 30px;
+}
+.foletter{
+    margin-top: 32px;
+    margin-left: 10px;
+    float: left;
+    width: 20%;
+    height: 30%;
+}
+.foletter li{
+    margin-left: 10px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.foletter ul:hover{
+    color: rgb(61, 183, 213) ;
+}
+
+.hline{
+    font-weight:bold;
+}
+.terms{
+    width: 50%;
+    height: 13%;
+    margin-left: 47%;
+    margin-top: 39%;
+}
+.terms ul{
+    font-size: 10px;
+    color: #fff;
+   
+   
+    
+}
+.terms li{
+    display: inline;
+    margin-left: 35px;
+    cursor: pointer;
+    
+}
+.terms ul:hover{
+color: rgb(61, 183, 213);
+}
+.nokia1{
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 57px;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.icon li{
+    float: left;
+    display: inline;
+    font-size: 20px;
+    margin-left: 30px;
+}
+.ibtn{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border-color: #fff;
+    color: #fff;
+    background-color: rgb(10, 10, 58) ;
+    cursor: pointer;
+}
+#text{
+    font-size: 10px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+#para{
+    font-size: 10px;
+    margin-left: 100px;
+}
+#subs{
+    font-size: 20px;
+    color: #fff;
+   height: 50px;
+   width: 130px;
+   margin-left: 100px;
+   background-color: rgb(10, 10, 58) ;
+   border-color: #fff;
+   cursor: pointer;
+
+}
+.icon li subs:hover{
+    color: #fff;
+}
+.column3_1 img{
+    transition: transform .6s;
+    
+}
+.column3_1 img:hover{
+    transform: scale(1.1); 
+}
+
+
+
